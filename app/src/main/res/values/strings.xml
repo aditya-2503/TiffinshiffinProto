@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SlideActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="order">Order</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="search_hint">TiffinShiffin</string>
+    <string name="ourstory">Our Story</string>
+    <string name="textknowus">Our mission is to change traditions of what it means to eat healthy and help our customers achieve
+        and maintain \n
+    healthy living. Cheap, poor quality food is in abundance and we recognize that our food must be both affordable\n
+        and delicious in order to make our customers’ dietary goals truly sustainable.\n\n\n
+        We provide our customers fresh, delicious, low-calorie, nutritionally balanced meals to help them support healthy lifestyle.\n
+        We are confident you will love the quality and convenience of Tiffinshiffin meals and \n
+        join the Tiffinshiffin community of 1000 + working executives in Delhi eating healthy, fresh and delicious meals at a reasonable price.
+    </string>
+    <string name="textknowus1">
+        All our meals are cooked and packed in our own specially designed scientific kitchen spread over 500 sq ft.\n
+        We measure portions: All the ingredients are carefully weighed and cooked as per Tiffinshiffin’s crafted recipes.\n
+We have different sections: Non-vegetarian food is cooked in a separate section and the supplies are stocked separately to ensure that vegetarian and non-vegetarian food is not mixed.
+\nWe take preventive measures: Salads and Fruit bowls are prepared in an air conditioned environment and the food is not touched by hand while packaging.
+\nWe welcome everyone: All our customers are welcome to visit the kitchen at any time, with or without prior notice.
+
+
+    </string>
+</resources>
